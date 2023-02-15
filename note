@@ -1,0 +1,4 @@
+truffle compile
+truffle migrate
+truffle migrate --reset
+npm run dev
